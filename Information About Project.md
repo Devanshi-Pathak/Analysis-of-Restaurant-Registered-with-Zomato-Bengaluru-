@@ -89,3 +89,4 @@ ANALYSIS DONE IN THIS PROJECT:
         1) from bar plot we see that for "North indian" foods restaurants gets more number of votes i.e. 516310
         2) for "north indian chinese" restaurants gets 258225 votes
         3) For "mithai" food items restaurants gets lowest votings.
+        
