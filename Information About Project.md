@@ -2,6 +2,8 @@
 This dataset is a collection of restaurants that are registered on Zomato in Bengaluru City. 
 In this dataset, there are more than 50000 rows and 17 columns.
 
+DATASET LINK: https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
+
 PYTHON VERSION: Python 3.9.12
 PYTHON LIBRARIES USED:
 #For Importing and Cleaning Data
